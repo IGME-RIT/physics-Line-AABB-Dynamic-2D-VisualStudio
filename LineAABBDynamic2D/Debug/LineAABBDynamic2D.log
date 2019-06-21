@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level7\physics-line-aabb-dynamic-2d-mastervs2019\lineaabbdynamic2d\main.cpp(519): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+d:\profiles\njp2424\desktop\physics\level7\physics-line-aabb-dynamic-2d-mastervs2019\lineaabbdynamic2d\main.cpp(574): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LineAABBDynamic2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-Line-AABB-Dynamic-2D-masterVS2019\LineAABBDynamic2D\Debug\LineAABBDynamic2D.exe
